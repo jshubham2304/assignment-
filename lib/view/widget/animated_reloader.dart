@@ -12,7 +12,7 @@ class AnimatedReloader extends AnimatedWidget {
       child: IconButton(
           icon: Icon(
             Icons.sync,
-            size: 24,
+            size: 28,
           ), // <-- Icon
           onPressed: () => callback()),
     );

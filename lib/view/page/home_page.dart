@@ -59,8 +59,8 @@ class _HomePageState extends State<HomePage>
                 : Center(
                     child: Image(
                       image: const AssetImage('assets/images/logo_icon.png'),
-                      width: 32,
-                      height: 32,
+                      width: 38,
+                      height: 38,
                       fit: BoxFit.contain,
                     ),
                   ),
